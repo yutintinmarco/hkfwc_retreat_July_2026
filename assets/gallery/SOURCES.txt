@@ -1,0 +1,68 @@
+HKFWC Taipei Team Retreat 2026 real image source record
+
+This v3 build replaces the prior stylised placeholder images with real, downloadable reference photos where suitable licensed sources were available. Several images are exact place photos. For some itinerary items where a clean venue specific image was not available, a licensed category or nearby Taipei reference photo is used instead. Images were cropped and compressed for app use.
+
+Main sources and attribution notes:
+
+1. taipei_airport.jpg
+   Wikimedia Commons, File:Taiwan Taoyuan International Airport - Terminal 1.jpg
+   Author: 毛貓大少爺. License: CC BY SA 2.0.
+
+2. ximending_home.jpg, ximending_night.jpg, default_trip_taipei.jpg, bg_trip_mobile.webp, app icons
+   Wikimedia Commons / Taipei Ximending night market area images used as Taipei / Ximending reference photos.
+   Where based on Taipei Taiwan Ximending Night Market 01: Photo by CEphoto, Uwe Aranas. License terms on Wikimedia Commons.
+
+3. ximending_breakfast.jpg, default_food_taipei.jpg
+   Wikimedia Commons Ximending street food / night market reference photo.
+
+4. rouduoduo_hotpot.jpg, dingwang_hotpot.jpg
+   Wikimedia Commons, File:Hot pot in Taiwanese restaurant.jpg
+   Author: M. Weitzel. Licensed on Wikimedia Commons under GFDL / CC BY SA options.
+   Used as a hot pot category reference photo, not an official photo of 肉多多 or 鼎王.
+
+5. qsquare_buffet.jpg
+   Wikimedia Commons, File:Qsquare B3 Food Court 2019.jpg
+   Author: Wpcpey. License: CC BY 4.0.
+   Used as Qsquare / dining reference photo, not 饗食天堂 official photo.
+
+6. pokemon_center_taipei.jpg
+   Wikimedia Commons, File:Pokemon Center Singapore.jpg
+   Author: A339. License: CC BY SA 4.0.
+   Used as licensed Pokémon Center reference photo because a clean licensed Pokémon Center Taipei photo was not identified.
+
+7. taipei_main_station.jpg, taipei_mrt.jpg
+   Wikimedia Commons Taipei Main Station / Taipei MRT reference photos.
+
+8. wannian_games.jpg
+   Wikimedia Commons Wan Nian Commercial Building reference photo.
+
+9. massage.jpg
+   Wikimedia Commons, File:Foot massage path in Taipei.jpg
+   Author: Elisachang. License: CC BY SA 4.0.
+   Used as Taipei massage / relaxation reference photo, not 筋武門 official photo.
+
+10. chifeng_street.jpg
+    Wikimedia Commons, File:Zhongshan Shuanglian Linear Park view1 201911.jpg
+    Author: Wpcpey. License: CC BY 4.0.
+    Used as Zhongshan / Chifeng Street area reference photo.
+
+11. olo_coffee.jpg, yilan_cola.jpg, default_cafe_taipei.jpg
+    Wikimedia Commons Taipei café reference photos, including File:R9 Café Taipei Store 20220918.jpg
+    Author: Solomon203. License: CC BY SA 4.0.
+    Used as cafe / drink reference photo, not OLO or 伊良可樂 official photos.
+
+12. snowking_icecream.jpg
+    Wikimedia Commons, File:Ice Cream Treat (Unsplash).jpg
+    Author: Joseph Gonzalez. CC0 as recorded by Wikimedia Commons for pre 5 June 2017 Unsplash uploads.
+    Used as ice cream reference photo, not 雪王 official photo.
+
+13. linjiang_night_market.jpg, team_motto.jpg
+    Wikimedia Commons, File:Linjiang Street Night Market.jpg
+    Author: vixyao. License: CC BY SA 2.0.
+
+14. mitsui_linkou_outlet.jpg, default_shopping_taipei.jpg
+    Wikimedia Commons, File:Mitsui Outlet Park Linkou 3 2016 6.jpg
+    Author: Padai. License: CC BY SA 4.0.
+
+Practical note:
+Official venue photos from restaurant sites, social media, Google Maps, travel blogs, or media articles were not directly embedded because their reuse rights are usually not clean enough for a redistributable zip package.
